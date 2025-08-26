@@ -22,9 +22,13 @@
 ### Data Processing
 We use publicly available reported crime data from four major United States cities:
 * Boston - https://data.boston.gov/dataset/crime-incident-reports-august-2015-to-date-source-new-system
+  License: Open Data Commons Public Domain Dedication and License (PDDL)
 * Chicago - https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-Present/ijzp-q8t2/about_data
+  License: Terms of Use of the City of Chicago https://www.chicago.gov/city/en/narr/foia/data_disclaimer.html
 * LA - https://data.lacity.org/Public-Safety/Crime-Data-from-2010-to-2019/63jg-8b9z/about_data & https://data.lacity.org/Public-Safety/Crime-Data-from-2020-to-Present/2nrs-mtv8/about_data
+  License: CC0 1.0 Universal
 * NYC - https://data.cityofnewyork.us/Public-Safety/NYPD-Complaint-Data-Historic/qgea-i56i/about_data
+  License: Terms of Use of NYC Open Data portal https://www.nyc.gov/main/terms-of-use
 
 ** As the datasets for Boston and LA are given as separate files for different periods, we join the files using Merge_Boston_Data and Merge_LA_Data, respectively (see `Data processing/`).
 

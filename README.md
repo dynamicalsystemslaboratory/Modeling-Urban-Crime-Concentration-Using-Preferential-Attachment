@@ -1,6 +1,6 @@
 **README: Journal Article Materials**
 
-**Title:** *Preferential attachment explains crime concentration in cities*\
+**Title:** *Emergent patterns of crime distributions across major U.S. cities*\
 **Authors:** Ofek Lauber Bonomo, Inês Figueira, Maurizio Porfiri\
 **Corresponding Author:** Maurizio Porfiri\
 **Date:** August 25, 2025
